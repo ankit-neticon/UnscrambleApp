@@ -10,4 +10,6 @@ This code sample also demonstrates how to implement Data Binding with LiveData.
 Getting Started
 ===================================
 
-1. Download and run the Unscramble.apk app.
+1. Download and run the Unscramble.apk app from this link-->
+
+https://drive.google.com/file/d/1XqQCD_yIZJOTjfu-LUWnw-aH7pWRC_2L/view?usp=sharing
