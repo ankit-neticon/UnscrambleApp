@@ -7,7 +7,7 @@ This code demonstrates the Android Architecture component- ViewModel and LiveDat
 This code sample also demonstrates how to implement Data Binding with LiveData.
 
 
-Getting Started
+Download
 ===================================
 
 1. Download and run the Unscramble.apk app from this link-->
